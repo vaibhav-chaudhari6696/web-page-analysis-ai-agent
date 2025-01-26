@@ -14,8 +14,8 @@ AI-powered FastAPI application for intelligent website homepage analysis, extrac
 ### Local Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/website-scraper-agent.git
-cd website-scraper-agent
+git clone https://github.com/vaibhav-chaudhari6696/web-page-analysis-ai-agent.git
+cd web-page-analysis-ai-agent
 ```
 
 2. Create virtual environment
