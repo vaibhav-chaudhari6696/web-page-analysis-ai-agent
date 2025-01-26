@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+beautifulsoup4
+requests
+pydantic
+pydantic-settings
+openai
+crewai
+python-dotenv
+langchain
+langchain-community

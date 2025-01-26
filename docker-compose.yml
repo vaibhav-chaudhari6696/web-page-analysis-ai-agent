@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  website-scraper:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - SECRET_KEY=${SECRET_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    restart: always
